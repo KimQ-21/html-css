@@ -1,0 +1,43 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header {
+    width: 100%;
+    height: 100px;
+    background-color: lightgrey;
+    display: flex;
+    align-items: center;
+}
+.blue-box{
+    width: 80px;
+    height: 80px;
+    background-color: dodgerblue;
+    margin-left: 25px;
+}
+.white {
+    height: 200px;
+    width: 90%;
+    padding: 30px;
+}
+.blue {
+    width: 100%;
+    height: 100px;
+    background-color: dodgerblue;
+}
+.turq {
+    width: 100%;
+    height: 100px;
+    background-color: turquoise;
+}
+.green {
+    width: 100%;
+    height: 100px;
+    background-color:yellowgreen;
+}
+.yellow {
+    width: 100%;
+    height: 100px;
+    background-color: yellow;
+}
